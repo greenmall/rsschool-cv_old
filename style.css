@@ -1,1 +1,5 @@
-background-color: orange;
+html { background: rgb(166,12,226);
+      background: linear-gradient(90deg, rgba(166,12,226,0.8435749299719888) 0%, rgba(255,190,7,1) 35%, rgba(255,170,11,1) 43%, rgba(81,91,199,1) 82%, rgba(0,212,255,1) 100%);}
+
+  p, li { font-family: Helvetica, sans-serif;
+  font-size:  20px; }   
